@@ -4,12 +4,12 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import BansosForm from './components/BansosForm.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    BansosForm
   }
 }
 </script>
